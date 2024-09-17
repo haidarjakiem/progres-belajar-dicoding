@@ -13,3 +13,4 @@
 
 ## Catatan :
 - harap diselesaikan dengan baik
+- bagus
