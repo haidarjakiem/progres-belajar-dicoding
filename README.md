@@ -12,4 +12,4 @@
 
 
 ## Catatan :
-- tidak ada
+- harap diselesaikan dengan baik
